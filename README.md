@@ -62,7 +62,7 @@ int main()
         erros=erros-5;
     }
 
-    cout<<"4)Quantos litros de sangeu uma pessoa tem?"<<endl;
+    cout<<"4)Quantos litros de sangue uma pessoa tem?"<<endl;
 
     cout<<"a) tem entre 2 a 4 litros"<<endl;
     cout<<"b) tem entre 4 a 6 litros"<<endl;
@@ -84,7 +84,7 @@ int main()
 
     cout<<"a) Baleia Azul"<<endl;
     cout<<"b) Dinossauro"<<endl;
-    cout<<"c) Elefante africano"<<endl;
+    cout<<"c) Elefante "<<endl;
     cout<<"d) Tubarão Branco"<<endl;
     cout<<"e) Girafa"<<endl;
     cout<<"Resposta: ";

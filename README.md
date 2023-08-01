@@ -1,1 +1,1 @@
-Nesse repositorio estao arquivos feitos pela faculdade
+Quiz de perguntas e respostas em c++
